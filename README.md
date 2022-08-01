@@ -1,4 +1,4 @@
-# FreeBASIC Language Support
+# QB64 Language Support
 
 A VSCode extension that adds support for modern versions of QB64.
 
