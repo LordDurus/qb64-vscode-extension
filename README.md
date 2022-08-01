@@ -1,7 +1,7 @@
 # FreeBASIC Language Support
 
-A VSCode extension that adds support for modern versions of FreeBASIC.
+A VSCode extension that adds support for modern versions of QB64.
 
 ## Features
 
-* Syntax highlighting for FreeBASIC 1.09.0.
+* Syntax highlighting for QB64 2.10.0.
